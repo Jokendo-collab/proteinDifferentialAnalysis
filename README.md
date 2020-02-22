@@ -5,3 +5,4 @@ Label free differential analysis of the Maxquant results to better understand th
 * volcano plot
 * heatmaps
 * correlation plot
+**These plus many other visualization functionalities are useful since they help in understang the data and how to derive biological meanings from the proteomic data**
