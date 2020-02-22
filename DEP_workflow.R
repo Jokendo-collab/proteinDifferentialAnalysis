@@ -1,4 +1,5 @@
 
+# https://bioconductor.org/packages/devel/bioc/vignettes/DEP/inst/doc/DEP.html#installation
 #Install the required library
 #BiocManager::install("DEP")
 
@@ -176,17 +177,6 @@ data_results <- LFQ(data, experimental_design, fun = "MinProb",
 
 #Prints the entire results
 report(data_results)
-
-
-
-
-
-
-
-
-
-
-
 
 
 
